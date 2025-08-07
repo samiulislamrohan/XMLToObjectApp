@@ -1,0 +1,1 @@
+]R?D:\Learning\XMLToObjectApp\XMLToObjectApp\XMLToObjectApp.csproj¢net8.0-windowsòCSharp12

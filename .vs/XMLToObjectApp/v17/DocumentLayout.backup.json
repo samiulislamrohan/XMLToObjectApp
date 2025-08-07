@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Learning\\XMLToObjectApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4A0B7F-490C-48A6-B869-7B6027AD5693}|XMLToObjectApp\\XMLToObjectApp.csproj|f:\\learning\\xmltoobjectapp\\xmltoobjectapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4A0B7F-490C-48A6-B869-7B6027AD5693}|XMLToObjectApp\\XMLToObjectApp.csproj|solutionrelative:xmltoobjectapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4A0B7F-490C-48A6-B869-7B6027AD5693}|XMLToObjectApp\\XMLToObjectApp.csproj|f:\\learning\\xmltoobjectapp\\xmltoobjectapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB4A0B7F-490C-48A6-B869-7B6027AD5693}|XMLToObjectApp\\XMLToObjectApp.csproj|solutionrelative:xmltoobjectapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4A0B7F-490C-48A6-B869-7B6027AD5693}|XMLToObjectApp\\XMLToObjectApp.csproj|f:\\learning\\xmltoobjectapp\\xmltoobjectapp\\model\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4A0B7F-490C-48A6-B869-7B6027AD5693}|XMLToObjectApp\\XMLToObjectApp.csproj|solutionrelative:xmltoobjectapp\\model\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4A0B7F-490C-48A6-B869-7B6027AD5693}|XMLToObjectApp\\XMLToObjectApp.csproj|f:\\learning\\xmltoobjectapp\\xmltoobjectapp\\xmltoobjectapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB4A0B7F-490C-48A6-B869-7B6027AD5693}|XMLToObjectApp\\XMLToObjectApp.csproj|solutionrelative:xmltoobjectapp\\xmltoobjectapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "F:\\Learning\\XMLToObjectApp\\XMLToObjectApp\\Model\\Data.cs",
+              "RelativeDocumentMoniker": "XMLToObjectApp\\Model\\Data.cs",
+              "ToolTip": "F:\\Learning\\XMLToObjectApp\\XMLToObjectApp\\Model\\Data.cs",
+              "RelativeToolTip": "XMLToObjectApp\\Model\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:07:28.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XMLToObjectApp.csproj",
+              "DocumentMoniker": "F:\\Learning\\XMLToObjectApp\\XMLToObjectApp\\XMLToObjectApp.csproj",
+              "RelativeDocumentMoniker": "XMLToObjectApp\\XMLToObjectApp.csproj",
+              "ToolTip": "F:\\Learning\\XMLToObjectApp\\XMLToObjectApp\\XMLToObjectApp.csproj",
+              "RelativeToolTip": "XMLToObjectApp\\XMLToObjectApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T12:07:01.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Learning\\XMLToObjectApp\\XMLToObjectApp\\Form1.cs",
+              "RelativeDocumentMoniker": "XMLToObjectApp\\Form1.cs",
+              "ToolTip": "F:\\Learning\\XMLToObjectApp\\XMLToObjectApp\\Form1.cs",
+              "RelativeToolTip": "XMLToObjectApp\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:53:37.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Learning\\XMLToObjectApp\\XMLToObjectApp\\Form1.cs",
+              "RelativeDocumentMoniker": "XMLToObjectApp\\Form1.cs",
+              "ToolTip": "F:\\Learning\\XMLToObjectApp\\XMLToObjectApp\\Form1.cs [Design]",
+              "RelativeToolTip": "XMLToObjectApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:53:22.844Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

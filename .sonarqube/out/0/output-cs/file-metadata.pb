@@ -1,0 +1,9 @@
+Ô
+ÈD:\Learning\XMLToObjectApp\XMLToObjectApp\obj\Debug\net8.0-windows\System.Windows.Forms.Analyzers.CSharp\System.Windows.Forms.Generators.ApplicationConfigurationGenerator\ApplicationConfiguration.g.csutf-8l
+aD:\Learning\XMLToObjectApp\XMLToObjectApp\obj\Debug\net8.0-windows\XMLToObjectApp.AssemblyInfo.csutf-8|
+qD:\Learning\XMLToObjectApp\XMLToObjectApp\obj\Debug\net8.0-windows\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8n
+cD:\Learning\XMLToObjectApp\XMLToObjectApp\obj\Debug\net8.0-windows\XMLToObjectApp.GlobalUsings.g.csutf-8=
+4D:\Learning\XMLToObjectApp\XMLToObjectApp\Program.csutf-8@
+7D:\Learning\XMLToObjectApp\XMLToObjectApp\Model\Data.csutf-8F
+;D:\Learning\XMLToObjectApp\XMLToObjectApp\Form1.Designer.csutf-8;
+2D:\Learning\XMLToObjectApp\XMLToObjectApp\Form1.csutf-8
